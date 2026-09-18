@@ -40,6 +40,10 @@ The public `.blend` stores creator, author, brand, project, repository, licence,
 
 These are first public editions of actual historical snapshots, not backdated Git histories. [Detailed history](HISTORY.md) · [Provenance and evidence limits](RIGHTS_AND_PROVENANCE.md) · [Public/private differences and known gaps](PUBLIC_EDITION_LIMITATIONS.md).
 
+## Verified publication
+
+[完整发布报告 / publication report](docs/PUBLICATION-REPORT.md) · [Actual publication timestamps and download hashes](manifests/publication-record.json)
+
 ## Project records
 
 [Attribution templates](ATTRIBUTION.md) · [Sources](SOURCES.md) · [Rights audit](docs/licensing/RIGHTS-AUDIT.md) · [Consistent campus audit framework](docs/licensing/CAMPUS-PUBLICATION-AUDIT.md) · [Changelog](CHANGELOG.md) · [Contributing](CONTRIBUTING.md) · [Release manifests](manifests/releases)
