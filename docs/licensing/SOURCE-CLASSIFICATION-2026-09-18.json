@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "audit_date": "2026-09-18",
+  "project": "UTS City Campus Reconstruction",
+  "scope": "Public Community Edition v0.5.0 and the five selected historical snapshots P001, P005, P017, P024-r1 and P069/P069_delivery",
+  "decision": "PUBLIC_WITH_LAYERED_RIGHTS",
+  "decision_note": "The audit found no concrete bundled third-party CAD, BIM, scan, point-cloud, commercial model, raster texture, packed image, external font or linked Blender library. Lack of project-specific university or architect authorization is recorded, but is not treated as a blanket blocker for independently authored geometry.",
+  "evidence": {
+    "object_provenance_records": 1808,
+    "records_with_nonempty_source": 1094,
+    "records_with_missing_source_field": 714,
+    "blender_snapshots_opened": 5,
+    "snapshots_with_image_datablocks": 0,
+    "snapshots_with_external_libraries": 0,
+    "snapshots_with_external_dependencies": 0,
+    "snapshots_with_object_drivers": 0,
+    "direct_third_party_binary_assets_identified": 0
+  },
+  "source_field_observations": {
+    "records_mentioning_osm": 1054,
+    "records_mentioning_uts_or_official_reference": 125,
+    "records_mentioning_photos": 118,
+    "records_mentioning_aspect_studios": 50,
+    "records_mentioning_plans_or_reports": 47,
+    "interpretation": "These counts are overlapping source-field observations, not separate ownership claims. A single authored feature can be informed by OSM and one or more reference-only sources."
+  },
+  "categories": {
+    "ORIGINAL_ZHSTUDIO": {
+      "status": "publish",
+      "material": "Script-authored procedural geometry, materials, arrangement, documentation and visual interpretation.",
+      "boundary": "Does not claim ownership of real-world buildings, geographic facts, school names or trademarks."
+    },
+    "PUBLIC_DATA_WITH_ATTRIBUTION": {
+      "status": "publish_with_odbl",
+      "material": "OSM source elements, mapped features and derived spatial mesh/data layers.",
+      "licence": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "boundary": "ODbL obligations and rights remain effective after extraction, conversion and inclusion in the model."
+    },
+    "REFERENCE_ONLY": {
+      "status": "excluded_from_bundle",
+      "material": "UTS, architect, consultant, operator, government and public street imagery, photos, plans and diagrams used for visual reference.",
+      "boundary": "Original reference files are not distributed and no licence to them is granted."
+    },
+    "REDISTRIBUTABLE_THIRD_PARTY": {
+      "status": "none_identified",
+      "material": "Direct CAD/BIM/scan/point-cloud/model/texture packages.",
+      "boundary": "Future direct third-party assets require a recorded redistribution licence before inclusion."
+    },
+    "RESTRICTED_OR_UNCLEAR": {
+      "status": "targeted_review_required",
+      "material": "714 historical provenance records lack a source-field value; this is a metadata gap, not evidence that those records contain third-party binaries.",
+      "treatment": "Keep the gap visible, improve provenance for future edits, and withhold or replace a specific asset if a concrete restricted source is identified. Do not convert this metadata gap into a blanket project block."
+    }
+  },
+  "jurisdiction_rule": {
+    "australia": "Use this same source-based framework for UTS, USYD and UNSW.",
+    "other_jurisdictions": "Assess separately under the applicable local law and actual source record; NTU Singapore is not automatically covered by this conclusion."
+  },
+  "limitations": [
+    "This is an evidence-based project audit, not a legal opinion or universal clearance certificate.",
+    "The source-field counts cover retained provenance records and do not prove sole authorship or resolve underlying architectural design rights.",
+    "School, architect, operator and trademark rights remain reserved to their respective holders."
+  ]
+}

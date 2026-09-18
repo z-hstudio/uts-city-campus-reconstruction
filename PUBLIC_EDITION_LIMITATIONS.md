@@ -20,4 +20,6 @@ REMOVED_FROM_PUBLIC_EDITION: private paths, operational metadata, private logs/c
 - Blackfriars references include historical information; present-day occupancy is not certified.
 - No interiors, complete structural systems, official branding package or construction accuracy is claimed.
 
+The retained provenance audit has 1,808 object records: 1,094 with a populated `source` field and 714 older records without one. Missing source metadata is a provenance gap, not a finding that those records contain third-party binaries; future changes should improve or replace those records individually.
+
 No known restricted third-party binary asset was found in the selected snapshots. No specialist legal opinion, school endorsement, or blanket clearance of underlying architecture and trademarks is claimed. Report a concrete rights concern through the repository; affected assets can be corrected or withdrawn without treating every independently authored asset as prohibited.

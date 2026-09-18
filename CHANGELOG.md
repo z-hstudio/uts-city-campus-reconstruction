@@ -2,6 +2,10 @@
 
 These entries map internal history to newly prepared public snapshots. They do not imply prior public releases.
 
+## 2026-09-18 — Source-based publication audit clarification
+
+Added the unified Australian campus rights/provenance rule, machine-readable source classification, standalone OSM notice and an explicit treatment for 714 historical records with missing source metadata. Existing v0.1.0–v0.5.0 releases remain available; no concrete restricted bundled asset was identified.
+
 ## v0.1.0 — P001: Geographic foundation
 
 Mapped building footprints/parts, roads, walks, green polygons and tree proxies established a coherent city-campus base.

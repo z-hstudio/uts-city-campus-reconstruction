@@ -11,7 +11,7 @@ A **Public Community Edition / Source-Available Community Model** of the **Unive
 - **Required visible source credit:** “Based on the original 3D campus model by Manyousang Z / z-hstudio.” 中文：“本作品基于漫游桑 Z（Manyousang Z）/ z-hstudio 制作的原始校园三维模型。”
 - **Modified work:** retain the source credit and add “Modified by [Name].” Renaming, remeshing or changing materials/formats does not erase the origin.
 - **Commercial use of original creative contributions:** obtain a separate written licence; fee, revenue share or both are negotiated. **Commercial permission does not waive attribution.** [Commercial terms](COMMERCIAL-LICENSE.md).
-- **Third-party data:** OSM and mapped derivative data retain **ODbL 1.0**, including commercial-use rights; the community noncommercial restriction does not apply to those data. Reference photos/drawings are not distributed. [Notices](THIRD_PARTY_NOTICES.md).
+- **Third-party data:** OSM and mapped derivative data retain **ODbL 1.0**, including commercial-use rights; the community noncommercial restriction does not apply to those data. Reference photos/drawings are not distributed. [Notices](THIRD_PARTY_NOTICES.md) · [OSM data notice](OSM-DATA-NOTICE.md).
 - **Approximate visualization, not survey data:** not construction, safety navigation, legal-boundary or precise digital-twin information. Current model remains **PARTIAL**.
 
 This is an independent community reconstruction project. It is not affiliated with, endorsed by, or officially produced by the university. School names, logos and trademarks belong to their respective rights holders. No university or architect authorization is asserted. This custom noncommercial licence is **not OSI Open Source**.
@@ -46,6 +46,6 @@ These are first public editions of actual historical snapshots, not backdated Gi
 
 ## Project records
 
-[Attribution templates](ATTRIBUTION.md) · [Sources](SOURCES.md) · [Rights audit](docs/licensing/RIGHTS-AUDIT.md) · [Consistent campus audit framework](docs/licensing/CAMPUS-PUBLICATION-AUDIT.md) · [Changelog](CHANGELOG.md) · [Contributing](CONTRIBUTING.md) · [Release manifests](manifests/releases)
+[Attribution templates](ATTRIBUTION.md) · [Sources](SOURCES.md) · [Rights audit](docs/licensing/RIGHTS-AUDIT.md) · [Source classification](docs/licensing/SOURCE-CLASSIFICATION-2026-09-18.json) · [Consistent campus audit framework](docs/licensing/CAMPUS-PUBLICATION-AUDIT.md) · [Changelog](CHANGELOG.md) · [Contributing](CONTRIBUTING.md) · [Release manifests](manifests/releases)
 
 Private masters, original reference images/PDFs, credentials, conversations, logs, caches, autosaves and unaccepted candidates are not published. Known rights issues can be reported with a precise asset/version and supporting source; this is not a blanket legal clearance of real-world architecture.
