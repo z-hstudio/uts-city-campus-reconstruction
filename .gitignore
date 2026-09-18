@@ -1,0 +1,9 @@
+*.blend
+*.blend1
+*.glb
+*.zip
+*.gz
+.env*
+.DS_Store
+__pycache__/
+private-audit/
