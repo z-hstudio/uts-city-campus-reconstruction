@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "creator": "Manyousang Z",
+  "author": "Ziheng Huang",
+  "brand": "z-hstudio",
+  "project": "UTS City Campus Reconstruction",
+  "university": "University of Technology Sydney",
+  "campus": "City Campus: Ultimo, Haymarket, Blackfriars and immediate context",
+  "release_version": "v0.2.0",
+  "release_date": "2026-09-18",
+  "prepared_at": "2026-09-18T08:54:47.152628+00:00",
+  "release_uuid": "cdfa5d00-3304-5bcd-886c-7981b28e4df3",
+  "parent_public_release": "v0.1.0",
+  "git_commit": "ced6599b38c8b9aae5d2e4dace830d17da028dc4",
+  "git_tag": "v0.2.0",
+  "repository": "https://github.com/z-hstudio/uts-city-campus-reconstruction",
+  "release_url": "https://github.com/z-hstudio/uts-city-campus-reconstruction/releases/tag/v0.2.0",
+  "internal_milestone": "P005",
+  "historical_snapshot_saved_at": "2026-09-16T09:46:05.153276+00:00",
+  "historical_date_evidence": "Local saved-file mtime and stage reports; not notarized and not a public-release timestamp",
+  "license": "z-hstudio Campus Model Community License",
+  "license_version": "1.0",
+  "third_party_data_license": "ODbL-1.0",
+  "status": "APPROXIMATE_PARTIAL_COMMUNITY_EDITION",
+  "asset_hashes": {
+    "ATTRIBUTION.md": {
+      "bytes": 1418,
+      "sha256": "c20da9b99fce4d317367d0138b893721b56ba31ca55f4e569150fbacb05d3d44"
+    },
+    "LICENSE.md": {
+      "bytes": 7230,
+      "sha256": "851b5527a400c1b5e34af5d3702359185e9b9bfd037763dbe0d58e886e53a609"
+    },
+    "OSM-DATA-NOTICE.md": {
+      "bytes": 565,
+      "sha256": "171b6e68df130fb464a7210a073bf6fcc1442a66c9f765bfda1d7685423e390e"
+    },
+    "PUBLIC_EDITION_LIMITATIONS.md": {
+      "bytes": 2836,
+      "sha256": "0243b072970d33634baa846889509e31d1fbc70ca4e13b904973f6292eeba510"
+    },
+    "RELEASE-NOTES.md": {
+      "bytes": 2592,
+      "sha256": "ea21bf6b7650f3c4da93d79067228a9f7e98544f3e9181b1f4b6bb6b68e98620"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 2769,
+      "sha256": "626ad41bcafc8603fdec4971fbd251ffa8355e715ee31b649891ca3d1e1f3e19"
+    },
+    "VALIDATION.json": {
+      "bytes": 775,
+      "sha256": "9648c0ec9001f92ca1a80cb21953a044d8565957ecadd02106e5029b9f54957c"
+    },
+    "core.png": {
+      "bytes": 1155869,
+      "sha256": "d476b63d999b75faa0f8795b659d313d661353f33f770c215fd60b511eb74c75"
+    },
+    "osm-derived-spatial-data.json.gz": {
+      "bytes": 552571,
+      "sha256": "2b3495cc456bfd75bfc5a0a57d668af01b4ba80cf05088d360d4a5d979032ac4"
+    },
+    "osm-source-data.json.gz": {
+      "bytes": 923640,
+      "sha256": "25f67122badb7de51f1fd1e1cabdb61353eeccc3b4ada70cabdfb02c16e1eefb"
+    },
+    "overview.png": {
+      "bytes": 1058216,
+      "sha256": "aca7c6acb37f161c11707ff3f0fdfcc329c4cfad78f283eeab00b603eeba6d0b"
+    },
+    "uts-city-campus-v0.2.0.blend": {
+      "bytes": 14787015,
+      "sha256": "a20e465c8e13eacc281205571b620211870f668e80e7cf1e0afb56d40a9a82e8"
+    },
+    "uts-city-campus-v0.2.0.glb": {
+      "bytes": 6869032,
+      "sha256": "747ab2b6c6bba19e42b5954d32ff9748f4c2d6db63ff3a60a0fd175b56b484ce"
+    }
+  },
+  "hash_convention": "Payload only; manifest does not hash itself. SHA256SUMS includes this manifest but excludes itself. Actual GitHub publication timestamp recorded separately after publication."
+}
