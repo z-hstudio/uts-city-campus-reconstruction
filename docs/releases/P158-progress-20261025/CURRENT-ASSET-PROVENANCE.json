@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-25",
+  "version": "P158-concave-hips",
+  "model_assets": [
+    {
+      "id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://polyhaven.com/a/jacaranda_tree",
+      "source_geometry": "shared complete render leaves + viewport LOD, normalized roots; USYD rootfit derivatives and UTS collection instances",
+      "instance_count": 279
+    }
+  ],
+  "packed_blend_images": [
+    {
+      "image_name": "asphalt_02_diff_2k.jpg",
+      "asset_id": "asphalt_02",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_diff_2k.jpg",
+      "sha256": "28f5ba8690553f192c0e5e1a5ff40f34765b4b93f4cc7059b1a3e9c795b6c28c"
+    },
+    {
+      "image_name": "asphalt_02_nor_gl_2k.jpg",
+      "asset_id": "asphalt_02",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_nor_gl_2k.jpg",
+      "sha256": "ffe49db71a0fd34c1e259625df66a302a237597d6ef655307987ec4e45bc6f21"
+    },
+    {
+      "image_name": "asphalt_02_rough_2k.jpg",
+      "asset_id": "asphalt_02",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_rough_2k.jpg",
+      "sha256": "b9a516b61b7040a9245ac206642d5f767ad9589a0169c4a1668221429e8a998c"
+    },
+    {
+      "image_name": "brown_mud_leaves_01_diff_2k.jpg",
+      "asset_id": "brown_mud_leaves_01",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_leaves_01/brown_mud_leaves_01_diff_2k.jpg",
+      "sha256": "29c997d77f56e4ea16d3e998a306be0c17fddb28ab4822657c7cd8249040ffda"
+    },
+    {
+      "image_name": "brown_mud_leaves_01_nor_gl_2k.jpg",
+      "asset_id": "brown_mud_leaves_01",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_leaves_01/brown_mud_leaves_01_nor_gl_2k.jpg",
+      "sha256": "b6ec386e00d9d2a1c3a1da6a98a67066b0dfaa88ddb779341df29700cf081bdf"
+    },
+    {
+      "image_name": "brown_mud_leaves_01_rough_2k.jpg",
+      "asset_id": "brown_mud_leaves_01",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_leaves_01/brown_mud_leaves_01_rough_2k.jpg",
+      "sha256": "9556215f5fef905c37cdf19c77aef7822f124890f8fb7dcce65d57c5eafc0ca5"
+    },
+    {
+      "image_name": "concrete_floor_01_diff_2k.jpg",
+      "asset_id": "concrete_floor_01",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_diff_2k.jpg",
+      "sha256": "ca24c52dabae67ef49093f91d8f9b9e5328a3b9fcb1327742ff6181ee542e017"
+    },
+    {
+      "image_name": "concrete_floor_01_nor_gl_2k.jpg",
+      "asset_id": "concrete_floor_01",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_nor_gl_2k.jpg",
+      "sha256": "796b010208e346bbeec4c468f286c3892852a454f77cb516d6f4a6e7c240de01"
+    },
+    {
+      "image_name": "concrete_floor_01_rough_2k.jpg",
+      "asset_id": "concrete_floor_01",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_rough_2k.jpg",
+      "sha256": "e66fa941d6daa33ba334c853bf126c85f1d77e7b72778073237e4ef8c7c97774"
+    },
+    {
+      "image_name": "jacaranda_tree_branches_diff",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_diff_1k.jpg",
+      "sha256": "5a4fe735f0c346cec83b6b444a0169fc14d2b31bbb7b26e26b1b6c726b6e06f6"
+    },
+    {
+      "image_name": "jacaranda_tree_branches_diff.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_diff_1k.jpg",
+      "sha256": "5a4fe735f0c346cec83b6b444a0169fc14d2b31bbb7b26e26b1b6c726b6e06f6"
+    },
+    {
+      "image_name": "jacaranda_tree_branches_nor_gl",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_nor_gl_1k.jpg",
+      "sha256": "2d67393ba76a0f49cf965fa0c99d8c16268e71e87b1203d35539bfdb971a514e"
+    },
+    {
+      "image_name": "jacaranda_tree_branches_nor_gl.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_nor_gl_1k.jpg",
+      "sha256": "2d67393ba76a0f49cf965fa0c99d8c16268e71e87b1203d35539bfdb971a514e"
+    },
+    {
+      "image_name": "jacaranda_tree_branches_rough",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_arm_1k.jpg",
+      "sha256": "9e3f82263247ce4f619692cea4c4f6fe9936ff465a86623481849062642c7d05"
+    },
+    {
+      "image_name": "jacaranda_tree_branches_rough.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_arm_1k.jpg",
+      "sha256": "9e3f82263247ce4f619692cea4c4f6fe9936ff465a86623481849062642c7d05"
+    },
+    {
+      "image_name": "jacaranda_tree_leaves_diff-jacaranda_tree_leaves_alpha",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_diff_1k.jpg",
+      "sha256": "6fe80c1f514ef690cccefb90b7e559fbd1aa9c8935fdc02523cc8ab83c22f7c2"
+    },
+    {
+      "image_name": "jacaranda_tree_leaves_diff-jacaranda_tree_leaves_alpha.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_diff_1k.jpg",
+      "sha256": "6fe80c1f514ef690cccefb90b7e559fbd1aa9c8935fdc02523cc8ab83c22f7c2"
+    },
+    {
+      "image_name": "jacaranda_tree_leaves_nor_gl",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_nor_gl_1k.jpg",
+      "sha256": "61520be2529ffe8e3d93d4361892134833bb4657117e121749089769067914c1"
+    },
+    {
+      "image_name": "jacaranda_tree_leaves_nor_gl.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_nor_gl_1k.jpg",
+      "sha256": "61520be2529ffe8e3d93d4361892134833bb4657117e121749089769067914c1"
+    },
+    {
+      "image_name": "jacaranda_tree_leaves_rough",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_arm_1k.jpg",
+      "sha256": "577eab0a07279fb4afd24522e85e0f188058c88db4b35eb0b330005b0d745b7a"
+    },
+    {
+      "image_name": "jacaranda_tree_leaves_rough.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_arm_1k.jpg",
+      "sha256": "577eab0a07279fb4afd24522e85e0f188058c88db4b35eb0b330005b0d745b7a"
+    },
+    {
+      "image_name": "jacaranda_tree_trunk_diff",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_diff_1k.jpg",
+      "sha256": "e5582fba664a9255252d1ee8088f75ad557f07360aa7f4513f2b2f1577e90be9"
+    },
+    {
+      "image_name": "jacaranda_tree_trunk_diff.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_diff_1k.jpg",
+      "sha256": "e5582fba664a9255252d1ee8088f75ad557f07360aa7f4513f2b2f1577e90be9"
+    },
+    {
+      "image_name": "jacaranda_tree_trunk_nor_gl",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_nor_gl_1k.jpg",
+      "sha256": "b2ad4e5daf8ec3fb87ba6c5f38e6a6924c9a6adebec20389f503e42da5d04587"
+    },
+    {
+      "image_name": "jacaranda_tree_trunk_nor_gl.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_nor_gl_1k.jpg",
+      "sha256": "b2ad4e5daf8ec3fb87ba6c5f38e6a6924c9a6adebec20389f503e42da5d04587"
+    },
+    {
+      "image_name": "jacaranda_tree_trunk_rough",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_arm_1k.jpg",
+      "sha256": "4a12e238cf3b8ba860626e99bf128e56ab41642fa4c2502a77df41a338689b78"
+    },
+    {
+      "image_name": "jacaranda_tree_trunk_rough.001",
+      "asset_id": "jacaranda_tree",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_arm_1k.jpg",
+      "sha256": "4a12e238cf3b8ba860626e99bf128e56ab41642fa4c2502a77df41a338689b78"
+    },
+    {
+      "image_name": "kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+      "asset_id": "kloofendal_48d_partly_cloudy_puresky",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+      "sha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198"
+    },
+    {
+      "image_name": "leafy_grass_diff_2k.jpg",
+      "asset_id": "leafy_grass",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_diff_2k.jpg",
+      "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113"
+    },
+    {
+      "image_name": "leafy_grass_nor_gl_2k.jpg",
+      "asset_id": "leafy_grass",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_nor_gl_2k.jpg",
+      "sha256": "df0cf0ce96e653f033e5b934d5b12995464bda027aa53bd12e329be889aa9f45"
+    },
+    {
+      "image_name": "leafy_grass_rough_2k.jpg",
+      "asset_id": "leafy_grass",
+      "provider": "Poly Haven",
+      "license": "CC0-1.0",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_rough_2k.jpg",
+      "sha256": "34e1733bf4064b6950a575ff57e78c8b7ff71b63749eb48a49221bd65de6fb4f"
+    }
+  ],
+  "glb_baked_color_derivatives": [
+    {
+      "material": "ENV3_leafy_grass_3m",
+      "source_image": "leafy_grass_diff_2k.jpg",
+      "source_image_sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113",
+      "baked_image": "ENV3_leafy_grass_3m-color-recipe.png",
+      "baked_image_sha256": "74e65d09135db070be3beee9e3183118fad5744e73391220460fb5393c188b9e",
+      "license": "CC0-1.0 photo texture; local color recipe",
+      "resolution": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "bake_note": "USYD procedural spatial grass noise becomes image-periodic; geometry, normal/roughness channels and photographic detail retained. No exact shader equivalence claimed.",
+  "spatial_license": "ODbL-1.0",
+  "mapped_feature_count": 1522,
+  "georeference": "{\"crs\": \"EPSG:7856\", \"origin_m\": [333601.6191209719, 6249304.270259805], \"origin_lonlat\": [151.2007, -33.8835], \"axes\": \"X east, Y grid north, Z up, metres\", \"ground\": \"Flat z=0 proxy; not terrain or surveyed elevation\"}"
+}

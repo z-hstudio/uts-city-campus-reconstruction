@@ -1,0 +1,80 @@
+{
+  "school": "UTS",
+  "date": "2026-10-25",
+  "status": "Verified bounded progress edition; not completed campus delivery",
+  "file_list": [
+    {
+      "filename": "uts-p158-progress-20261025.blend",
+      "role": "current_editable_model",
+      "license": "Community License; independently licensed components retain their terms",
+      "bytes": 572292169,
+      "sha256": "0a9e7837b0a5d98013478aeb955726013bf3f9ec0dbb465d09c45f2ac73ea4e1"
+    },
+    {
+      "filename": "uts-p158-progress-20261025-materialfix1.glb",
+      "role": "current_portable_materialfix1",
+      "license": "Community License; independently licensed components retain their terms",
+      "bytes": 368545040,
+      "sha256": "5d1e3d98686a2b8f4c213f718179a2fc53a43f50b32ce1d3ecfa3e2e1686e087"
+    },
+    {
+      "filename": "preview-blend.png",
+      "role": "current_actual_preview",
+      "license": "Original model render; third-party component terms retained",
+      "bytes": 1594949,
+      "sha256": "45a3fc4ec822e79af80ff06048e65083f2c9082ba01cf6ff79fd90e7fc871099"
+    },
+    {
+      "filename": "preview-glb.png",
+      "role": "current_actual_preview",
+      "license": "Original model render; third-party component terms retained",
+      "bytes": 1595955,
+      "sha256": "585fb567be868deed50eb781272f9d4be2305460b39402b0f5881b459d1608fe"
+    },
+    {
+      "filename": "preview-contact.png",
+      "role": "current_actual_preview",
+      "license": "Original model render; third-party component terms retained",
+      "bytes": 1045957,
+      "sha256": "9f7717038222173ad4354bb8c622fd425167383715ef5d3c03f10fb8e6314f4a"
+    },
+    {
+      "filename": "mapped-spatial-data.json.gz",
+      "role": "source_and_derived_database",
+      "license": "ODbL-1.0",
+      "bytes": 14217100,
+      "sha256": "6bf27f2f4a86036aa09cfb33b7e9a68034b5e4b86105f014112b2b2b010814ae"
+    },
+    {
+      "filename": "osm-base-derived-scene.json.gz",
+      "role": "source_and_derived_database",
+      "license": "ODbL-1.0",
+      "bytes": 459619,
+      "sha256": "15befc584062303837eb0010727b5f7814ecc39f9e53719f8ecb36df05a81c56"
+    },
+    {
+      "filename": "CURRENT-ASSET-PROVENANCE.json",
+      "role": "actual_dependency_credits",
+      "license": "Provenance metadata; underlying component terms",
+      "bytes": 13023,
+      "sha256": "3eb1f8331020d099c94f9e6fd748eee66a9050d0bc2d6c861450800a0084bef6"
+    }
+  ],
+  "required_notice_filenames": [
+    "ASSET-SOURCES.json",
+    "ATTRIBUTION.md",
+    "LICENSE.md",
+    "OSM-DATA-NOTICE.md",
+    "THIRD_PARTY_NOTICES.md"
+  ],
+  "geometry_bounds_max_delta_m": 0,
+  "missing_images": [],
+  "flicker_scope": "60 SOLID overview/approach raster frames; two public BLEND material-preview near-contact sites, three frames each",
+  "limits": [
+    "Progress model: incomplete/context geometry retained",
+    "UTS inferred/schematic local ground is not surveyed terrain",
+    "USYD image-periodic bake approximates the original world-space grass noise",
+    "No global no-flicker or every-intersection claim"
+  ],
+  "excluded": "Original failed GLB and private QA files are not this release."
+}
