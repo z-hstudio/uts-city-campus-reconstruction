@@ -1,11 +1,23 @@
 # UTS City Campus Reconstruction
 
+## Latest progress snapshot — 25 October 2026
+
+[P158-progress-20261025: files and previews](https://github.com/z-hstudio/uts-city-campus-reconstruction/releases/tag/P158-progress-20261025) · [Changes and checks](docs/releases/P158-progress-20261025/RELEASE-NOTES.md)
+
+This progress prerelease includes the checked Blender scene, a fresh GLB with corrected grass colours, current mapped data and source notices. It remains a partial personal reconstruction. Earlier stable releases are preserved below; the linked release notes explain the sampled checks and remaining limits.
+
+![UTS progress snapshot, Blender overview](previews/releases/P158-progress-20261025/preview-blend.png)
+
+Model by Manyousang Z / z-hstudio. Map data © OpenStreetMap contributors. See the release's source notices for the full credits.
+
+## Earlier Community Edition information
+
 **Original campus reconstruction: Manyousang Z / z-hstudio**  
 Creator: Manyousang Z / 漫游桑 Z · Author: Ziheng Huang / 黄子恒
 
 A **Public Community Edition / Source-Available Community Model** of the **University of Technology Sydney City Campus**, covering Ultimo, Haymarket and Blackfriars with surrounding city context.
 
-**[Download current v0.5.0](https://github.com/z-hstudio/uts-city-campus-reconstruction/releases/tag/v0.5.0)** · [All historical releases](https://github.com/z-hstudio/uts-city-campus-reconstruction/releases) · [Licence](LICENSE.md) · [History](HISTORY.md)
+**[Download earlier stable v0.5.0](https://github.com/z-hstudio/uts-city-campus-reconstruction/releases/tag/v0.5.0)** · [All historical releases](https://github.com/z-hstudio/uts-city-campus-reconstruction/releases) · [Licence](LICENSE.md) · [History](HISTORY.md)
 
 - **Allowed:** personal learning, education, research, noncommercial display/video/web/game/VR/AR, editing, conversion and noncommercial derivatives under [Community License 1.0](LICENSE.md).
 - **Required visible source credit:** “Based on the original 3D campus model by Manyousang Z / z-hstudio.” 中文：“本作品基于漫游桑 Z（Manyousang Z）/ z-hstudio 制作的原始校园三维模型。”
@@ -16,7 +28,7 @@ A **Public Community Edition / Source-Available Community Model** of the **Unive
 
 This is an independent community reconstruction project. It is not affiliated with, endorsed by, or officially produced by the university. School names, logos and trademarks belong to their respective rights holders. No university or architect authorization is asserted. This custom noncommercial licence is **not OSI Open Source**.
 
-![Current core campus preview](previews/current/core.png)
+![Earlier stable core campus preview](previews/current/core.png)
 
 Based on the original 3D campus model by **Manyousang Z / z-hstudio**. © OpenStreetMap contributors, [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/). Workbench preview; material/glass appearance varies by viewer.
 
